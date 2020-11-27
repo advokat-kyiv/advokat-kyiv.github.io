@@ -4206,6 +4206,33 @@ a {
 .cid-sfmebf7OkQ .item-subtitle {
   text-align: center;
 }
+.cid-shxm9IHNwr {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-shxm9IHNwr .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
+.cid-shxm9IHNwr .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-shxm9IHNwr .mbr-iconfont {
+  padding-left: 1rem;
+  font-family: 'Moririse2' !important;
+  font-size: 1.4rem !important;
+  color: #6592e6;
+}
+.cid-shxm9IHNwr .panel-body,
+.cid-shxm9IHNwr .card-header {
+  padding: 1rem 0;
+}
+.cid-shxm9IHNwr .panel-title-edit {
+  color: #000000;
+}
 .cid-sfmebfWZLd {
   padding-top: 2rem;
   padding-bottom: 2rem;
